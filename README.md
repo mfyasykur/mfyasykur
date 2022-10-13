@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfyasykur
+- 👋 Hi, I’m Muhammad Fauzan Yasykur
 - 👀 I’m interested in web, android, graphic design.
 - 🌱 I’m currently learning Java Back-End.
 <!--- - 💞️ I’m looking to collaborate on ... --->

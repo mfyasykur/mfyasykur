@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Fauzan Yasykur
-- 👀 I’m interested in web, graphic design.
+- 👀 I’m interested in web & mobile developing
 - 🌱 I’m currently focused on Java Back-End.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me:

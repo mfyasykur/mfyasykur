@@ -3,7 +3,7 @@
 - 🌱 I’m currently focused on Java Back-End & Middleware
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/mfyasykur/
+- [![Muhammad Fauzan Yasykur - LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/mfyasykur?trk=profile-badge)
 
 #
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfyasykur&layout=compact)](https://github.com/mfyasykur/github-readme-stats) --->

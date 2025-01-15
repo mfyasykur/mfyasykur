@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Fauzan Yasykur
-- 👀 I’m interested in web & mobile developing
-- 🌱 I’m currently focused on Java Back-End & Middleware
+- 👀 Interested in software developing
+- 🌱 Currently focused on Java Back-End & Middleware
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me:
 - [![Muhammad Fauzan Yasykur - LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/mfyasykur?trk=profile-badge)
